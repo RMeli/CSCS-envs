@@ -22,3 +22,6 @@ if [ -f "/users/rmeli/mambaforge/etc/profile.d/mamba.sh" ]; then
     . "/users/rmeli/mambaforge/etc/profile.d/mamba.sh"
 fi
 # <<< conda initialize <<<
+
+# configure the user-environment (uenv) utility
+source /users/rmeli/.local/bin/activate-uenv
