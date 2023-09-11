@@ -1,0 +1,3 @@
+# Stackinator and uenv
+export PATH="~/git/stackinator/bin:$PATH"
+source /users/rmeli/.local/bin/activate-uenv
